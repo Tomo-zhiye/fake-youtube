@@ -96,7 +96,7 @@ class App extends StatelessWidget {
                           Row(
                             children: <Widget>[
                               Text(
-                                '中国語${items[index + 1].split('m')[1]}',
+                                'English Speaking${items[index + 1].split('m')[1]}',
                                 style: TextStyle(fontSize: 18),
                               ),
                             ],
